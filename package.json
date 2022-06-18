@@ -1,0 +1,21 @@
+{
+    "name": "keepsmile",
+    "displayName": "popeye",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "popeye theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/popeye theme-color-theme.json"
+            }
+        ]
+    }
+}
